@@ -1,0 +1,16 @@
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\bin\Debug\net5.0\03_LINQ.exe
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\bin\Debug\net5.0\03_LINQ.deps.json
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\bin\Debug\net5.0\03_LINQ.runtimeconfig.json
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\bin\Debug\net5.0\03_LINQ.runtimeconfig.dev.json
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\bin\Debug\net5.0\03_LINQ.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\bin\Debug\net5.0\03_LINQ.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\obj\Debug\net5.0\03_LINQ.csproj.AssemblyReference.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\obj\Debug\net5.0\03_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\obj\Debug\net5.0\03_LINQ.AssemblyInfoInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\obj\Debug\net5.0\03_LINQ.AssemblyInfo.cs
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\obj\Debug\net5.0\03_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\obj\Debug\net5.0\03_LINQ.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\obj\Debug\net5.0\refint\03_LINQ.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\obj\Debug\net5.0\03_LINQ.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\obj\Debug\net5.0\03_LINQ.genruntimeconfig.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\LINQ_LAMBDA\03_LINQ\obj\Debug\net5.0\ref\03_LINQ.dll

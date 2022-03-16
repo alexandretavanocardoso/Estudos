@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\CSharp_Avancado\\01_Serializacao_Deserialiazacao\\02_Deserializar_XML\\02_Deserializar_XML.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\CSharp_Avancado\\01_Serializacao_Deserialiazacao\\00_Bilbioteca\\00_Bilbioteca.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\CSharp_Avancado\\01_Serializacao_Deserialiazacao\\00_Bilbioteca\\00_Bilbioteca.csproj",
+        "projectName": "00_Bilbioteca",
+        "projectPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\CSharp_Avancado\\01_Serializacao_Deserialiazacao\\00_Bilbioteca\\00_Bilbioteca.csproj",
+        "packagesPath": "C:\\Users\\tavan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\CSharp_Avancado\\01_Serializacao_Deserialiazacao\\00_Bilbioteca\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\CSharp_Avancado\\01_Serializacao_Deserialiazacao\\02_Deserializar_XML\\02_Deserializar_XML.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\CSharp_Avancado\\01_Serializacao_Deserialiazacao\\02_Deserializar_XML\\02_Deserializar_XML.csproj",
+        "projectName": "02_Deserializar_XML",
+        "projectPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\CSharp_Avancado\\01_Serializacao_Deserialiazacao\\02_Deserializar_XML\\02_Deserializar_XML.csproj",
+        "packagesPath": "C:\\Users\\tavan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\CSharp_Avancado\\01_Serializacao_Deserialiazacao\\02_Deserializar_XML\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\CSharp_Avancado\\01_Serializacao_Deserialiazacao\\00_Bilbioteca\\00_Bilbioteca.csproj": {
+                "projectPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\CSharp_Avancado\\01_Serializacao_Deserialiazacao\\00_Bilbioteca\\00_Bilbioteca.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\01_Serializacao_Deserialiazacao\00_Bilbioteca\bin\Debug\net5.0\00_Bilbioteca.deps.json
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\01_Serializacao_Deserialiazacao\00_Bilbioteca\bin\Debug\net5.0\00_Bilbioteca.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\01_Serializacao_Deserialiazacao\00_Bilbioteca\bin\Debug\net5.0\00_Bilbioteca.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\01_Serializacao_Deserialiazacao\00_Bilbioteca\obj\Debug\net5.0\00_Bilbioteca.csproj.AssemblyReference.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\01_Serializacao_Deserialiazacao\00_Bilbioteca\obj\Debug\net5.0\00_Bilbioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\01_Serializacao_Deserialiazacao\00_Bilbioteca\obj\Debug\net5.0\00_Bilbioteca.AssemblyInfoInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\01_Serializacao_Deserialiazacao\00_Bilbioteca\obj\Debug\net5.0\00_Bilbioteca.AssemblyInfo.cs
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\01_Serializacao_Deserialiazacao\00_Bilbioteca\obj\Debug\net5.0\00_Bilbioteca.csproj.CoreCompileInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\01_Serializacao_Deserialiazacao\00_Bilbioteca\obj\Debug\net5.0\00_Bilbioteca.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\01_Serializacao_Deserialiazacao\00_Bilbioteca\obj\Debug\net5.0\refint\00_Bilbioteca.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\01_Serializacao_Deserialiazacao\00_Bilbioteca\obj\Debug\net5.0\00_Bilbioteca.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\CSharp_Avancado\01_Serializacao_Deserialiazacao\00_Bilbioteca\obj\Debug\net5.0\ref\00_Bilbioteca.dll
