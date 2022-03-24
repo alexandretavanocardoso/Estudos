@@ -1,0 +1,16 @@
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\bin\Debug\net5.0\05_Thread_ID.exe
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\bin\Debug\net5.0\05_Thread_ID.deps.json
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\bin\Debug\net5.0\05_Thread_ID.runtimeconfig.json
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\bin\Debug\net5.0\05_Thread_ID.runtimeconfig.dev.json
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\bin\Debug\net5.0\05_Thread_ID.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\bin\Debug\net5.0\05_Thread_ID.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\obj\Debug\net5.0\05_Thread_ID.csproj.AssemblyReference.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\obj\Debug\net5.0\05_Thread_ID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\obj\Debug\net5.0\05_Thread_ID.AssemblyInfoInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\obj\Debug\net5.0\05_Thread_ID.AssemblyInfo.cs
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\obj\Debug\net5.0\05_Thread_ID.csproj.CoreCompileInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\obj\Debug\net5.0\05_Thread_ID.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\obj\Debug\net5.0\refint\05_Thread_ID.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\obj\Debug\net5.0\05_Thread_ID.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\obj\Debug\net5.0\05_Thread_ID.genruntimeconfig.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Theread\05_Thread_ID\obj\Debug\net5.0\ref\05_Thread_ID.dll

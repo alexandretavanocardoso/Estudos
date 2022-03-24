@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Thread", "01_Thread\01_Thread.csproj", "{099AD030-7661-4056-BB48-D12BF1749366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_MultiThread", "02_Thread\02_MultiThread.csproj", "{07571E2E-0CBD-46AF-9EA4-83B46C54C6BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Thread_BackGround", "03_Thread\03_Thread_BackGround.csproj", "{3B8CE775-C406-4037-8F1C-0EB46B042A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Thread_Safe", "04_Thread_Safe\04_Thread_Safe.csproj", "{B2E6B547-F10D-42F5-AD18-6E194927CD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Thread_ID", "05_Thread_ID\05_Thread_ID.csproj", "{09A63555-AD4D-4015-8684-E544A11DF9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Thread_Metodos", "06_Thread_Metodos\06_Thread_Metodos.csproj", "{5B10486E-E5EA-41C2-A2E0-CDB0837A707B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Thread_Sincronization", "07_Thread_Sincronization\07_Thread_Sincronization.csproj", "{11E0D6AB-1933-4EAD-9AE6-C374E69700F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099AD030-7661-4056-BB48-D12BF1749366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099AD030-7661-4056-BB48-D12BF1749366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099AD030-7661-4056-BB48-D12BF1749366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099AD030-7661-4056-BB48-D12BF1749366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07571E2E-0CBD-46AF-9EA4-83B46C54C6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07571E2E-0CBD-46AF-9EA4-83B46C54C6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07571E2E-0CBD-46AF-9EA4-83B46C54C6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07571E2E-0CBD-46AF-9EA4-83B46C54C6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8CE775-C406-4037-8F1C-0EB46B042A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8CE775-C406-4037-8F1C-0EB46B042A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8CE775-C406-4037-8F1C-0EB46B042A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8CE775-C406-4037-8F1C-0EB46B042A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E6B547-F10D-42F5-AD18-6E194927CD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E6B547-F10D-42F5-AD18-6E194927CD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E6B547-F10D-42F5-AD18-6E194927CD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E6B547-F10D-42F5-AD18-6E194927CD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A63555-AD4D-4015-8684-E544A11DF9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A63555-AD4D-4015-8684-E544A11DF9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A63555-AD4D-4015-8684-E544A11DF9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A63555-AD4D-4015-8684-E544A11DF9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B10486E-E5EA-41C2-A2E0-CDB0837A707B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B10486E-E5EA-41C2-A2E0-CDB0837A707B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B10486E-E5EA-41C2-A2E0-CDB0837A707B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B10486E-E5EA-41C2-A2E0-CDB0837A707B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E0D6AB-1933-4EAD-9AE6-C374E69700F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E0D6AB-1933-4EAD-9AE6-C374E69700F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E0D6AB-1933-4EAD-9AE6-C374E69700F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E0D6AB-1933-4EAD-9AE6-C374E69700F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23D6F5F5-4BAE-40D8-9BEB-C0115F5FEC4E}
+	EndGlobalSection
+EndGlobal

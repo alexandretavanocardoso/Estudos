@@ -1,0 +1,16 @@
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\bin\Debug\net5.0\01_Reflection.exe
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\bin\Debug\net5.0\01_Reflection.deps.json
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\bin\Debug\net5.0\01_Reflection.runtimeconfig.json
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\bin\Debug\net5.0\01_Reflection.runtimeconfig.dev.json
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\bin\Debug\net5.0\01_Reflection.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\bin\Debug\net5.0\01_Reflection.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\obj\Debug\net5.0\01_Reflection.csproj.AssemblyReference.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\obj\Debug\net5.0\01_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\obj\Debug\net5.0\01_Reflection.AssemblyInfoInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\obj\Debug\net5.0\01_Reflection.AssemblyInfo.cs
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\obj\Debug\net5.0\01_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\obj\Debug\net5.0\01_Reflection.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\obj\Debug\net5.0\refint\01_Reflection.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\obj\Debug\net5.0\01_Reflection.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\obj\Debug\net5.0\01_Reflection.genruntimeconfig.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\CSharp_Avancado\Atributos_Reflection\01_Reflection\obj\Debug\net5.0\ref\01_Reflection.dll
