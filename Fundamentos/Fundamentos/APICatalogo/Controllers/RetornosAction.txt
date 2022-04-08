@@ -1,0 +1,38 @@
+﻿Podem retornar tipos especificos.
+
+ActionResult ou IActionResult:
+System.Web.Mvc.ContentResult
+System.Web.Mvc.EmptyResult
+System.Web.Mvc.FileResult
+System.Web.Mvc.HttpStatusCodeResult
+System.Web.Mvc.JavaScriptResult
+System.Web.Mvc.JsonResult
+System.Web.Mvc.RedirectResult
+System.Web.Mvc.RedirectToRouterResult
+System.Web.Mvc.ViewResultBase 
+
+
+ActionResult<T>: ActionResult<Produto>
+
+ATRIBUTOS PARA PARAMETROS
+[BindRequired] - obriga que na reuisição o parametro não seja null, se for retorna erro no ModelState
+[BindNever] - não vincula a informação do parametro
+
+FONTE DE DADOS
+[FromForm] - Parametros de dados do formulário
+[FromBody] - Parametros no corpo da requisição (POST e PUT)
+[FromQuery] - Parametros na url da queryString da requisição "&nome=Query"
+[FromRoute] - Parametros na rota da requisição
+
+[FromServices] - Vincula o valor especeficado á implementação que foi
+configurada no seu container de injeção de dependencia (
+
+Criar interface(IService) e service(Service)
+
+Controller
+public ActionResult<string> GetSaudacao([FromServices] IService service, string nome);
+
+Startup
+services.AddScoped<IService, Service>();
+)
+
