@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Documentacao_Swagger</name>
+    </assembly>
+    <members>
+        <member name="M:Documentacao_Swagger.Controllers.WeatherForecastController.Get(System.Int32)">
+            <summary>
+             Retornar temparatura e data
+            </summary>
+            <param name="id">id da temparatura</param>
+            <returns>retorna 200</returns>
+        </member>
+    </members>
+</doc>

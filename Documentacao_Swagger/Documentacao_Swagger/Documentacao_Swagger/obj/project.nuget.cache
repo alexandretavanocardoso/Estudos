@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "r4MSSFy/USxB/UaGp9+PzD6qISIScAM2oR4UNNdBvFNSjQQU4d55ian+yNmlBb94l3TPV1n5vjArBMEq1qUVcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\Documentacao_Swagger\\Documentacao_Swagger\\Documentacao_Swagger\\Documentacao_Swagger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tavan\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\tavan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tavan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tavan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\tavan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\tavan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\tavan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
