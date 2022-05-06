@@ -1,0 +1,10 @@
+C:\Users\tavan\OneDrive\Área de Trabalho\Bd_Teste\Bd_Teste\bin\Debug\Bd_Teste.dacpac
+C:\Users\tavan\OneDrive\Área de Trabalho\Bd_Teste\Bd_Teste\bin\Debug\Bd_Teste.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Bd_Teste\Bd_Teste\bin\Debug\Bd_Teste.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\Bd_Teste\Bd_Teste\obj\Debug\Bd_Teste.sqlproj.AssemblyReference.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Bd_Teste\Bd_Teste\obj\Debug\Model.xml
+C:\Users\tavan\OneDrive\Área de Trabalho\Bd_Teste\Bd_Teste\obj\Debug\refactor.xml
+C:\Users\tavan\OneDrive\Área de Trabalho\Bd_Teste\Bd_Teste\obj\Debug\postdeploy.sql
+C:\Users\tavan\OneDrive\Área de Trabalho\Bd_Teste\Bd_Teste\obj\Debug\predeploy.sql
+C:\Users\tavan\OneDrive\Área de Trabalho\Bd_Teste\Bd_Teste\obj\Debug\Bd_Teste.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Bd_Teste\Bd_Teste\obj\Debug\Bd_Teste.pdb
