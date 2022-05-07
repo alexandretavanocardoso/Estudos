@@ -1,1 +1,8 @@
 AS VEZES É NECESSARIO CRIAR UM OUTRO ARQUIVO DE TESTE PARA OBTER E COMPARAR TAIS DADOS (SECAO DE BANCO)
+
+
+MOCKS:
+- São normalmente criados para testar o comportamento de outros objetos.
+- Replicar o funcionamento de outra parte que não diz respeito ao nosso teste atual.
+- Aquilo que utilizamos como uma cópia de um elemento real, ou seja, é uma “falsificação” de algum objeto.
+- Um meio de testar outra classe (Não se testa o moq, o moq testa algo dependende dele)

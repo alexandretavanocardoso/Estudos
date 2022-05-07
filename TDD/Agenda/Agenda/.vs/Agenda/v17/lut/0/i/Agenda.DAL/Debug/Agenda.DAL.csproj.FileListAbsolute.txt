@@ -1,0 +1,5 @@
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\b\Agenda.DAL\bin\Debug\Agenda.DAL.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\i\Agenda.DAL\Debug\Agenda.DAL.csproj.AssemblyReference.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\i\Agenda.DAL\Debug\Agenda.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\i\Agenda.DAL\Debug\Agenda.DAL.csproj.CopyComplete
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\i\Agenda.DAL\Debug\Agenda.DAL.dll

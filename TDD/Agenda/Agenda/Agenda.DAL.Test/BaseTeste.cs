@@ -21,18 +21,18 @@ namespace Agenda.DAL.Test
         }
 
         [OneTimeSetUp]
-        public void OneTimeSetup()
+        public void OneTimeSetup_Test()
         {
-            CreateDbTeste();
+            CreateDbTeste_Test();
         }
 
         [OneTimeTearDown]
-        public void OneTimeTearDown()
+        public void OneTimeTearDown_Test()
         {
-            DeleteDbTeste();
+            DeleteDbTeste_Test();
         }
 
-        private void CreateDbTeste()
+        private void CreateDbTeste_Test()
         {
             using (var con = new SqlConnection(_con))
             {
@@ -47,11 +47,11 @@ namespace Agenda.DAL.Test
                      .Replace("WITH (DATA_COMPRESSION = PAGE)", string.Empty)
                      .Replace("SET NOEXEC ON", string.Empty)
                      .Replace("GO\r\n", "|");
-                ExecuteScriptSql(con, scriptSql); 
+                ExecuteScriptSql_Test(con, scriptSql); 
             };
         }
 
-        private void ExecuteScriptSql(SqlConnection con, string scriptSql)
+        private void ExecuteScriptSql_Test(SqlConnection con, string scriptSql)
         {
             using (var cmd = con.CreateCommand())
             {
@@ -71,7 +71,7 @@ namespace Agenda.DAL.Test
             }
         }
 
-        private void DeleteDbTeste() 
+        private void DeleteDbTeste_Test() 
         {
             using (var con = new SqlConnection(_con))
             {

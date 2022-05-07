@@ -1,0 +1,9 @@
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\b\Agenda.Repos.Test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\b\Agenda.Repos.Test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\b\Agenda.Repos.Test\bin\Debug\nunit.engine.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\b\Agenda.Repos.Test\bin\Debug\nunit.engine.api.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\b\Agenda.Repos.Test\bin\Debug\Agenda.Repos.Test.dll
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\i\Agenda.Repos.Test\Debug\Agenda.Repos.Test.csproj.AssemblyReference.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\i\Agenda.Repos.Test\Debug\Agenda.Repos.Test.csproj.CoreCompileInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\i\Agenda.Repos.Test\Debug\Agenda.Repos.Test.csproj.CopyComplete
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\.vs\Agenda\v17\lut\0\i\Agenda.Repos.Test\Debug\Agenda.Repos.Test.dll

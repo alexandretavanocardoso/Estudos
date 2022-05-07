@@ -9,3 +9,14 @@ C:\Users\tavan\OneDrive\Área de Trabalho\Agenda\Agenda\Agenda.UserInterfaceDesk
 C:\Users\tavan\OneDrive\Área de Trabalho\Agenda\Agenda\Agenda.UserInterfaceDesktop\obj\Debug\Agenda.UserInterfaceDesktop.csproj.CoreCompileInputs.cache
 C:\Users\tavan\OneDrive\Área de Trabalho\Agenda\Agenda\Agenda.UserInterfaceDesktop\obj\Debug\Agenda.UserInterfaceDesktop.exe
 C:\Users\tavan\OneDrive\Área de Trabalho\Agenda\Agenda\Agenda.UserInterfaceDesktop\obj\Debug\Agenda.UserInterfaceDesktop.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\Agenda.UserInterfaceDesktop\bin\Debug\Agenda.UserInterfaceDesktop.exe.config
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\Agenda.UserInterfaceDesktop\bin\Debug\Agenda.UserInterfaceDesktop.exe
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\Agenda.UserInterfaceDesktop\bin\Debug\Agenda.UserInterfaceDesktop.pdb
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\Agenda.UserInterfaceDesktop\obj\Debug\Agenda.UserInterfaceDesktop.csproj.AssemblyReference.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\Agenda.UserInterfaceDesktop\obj\Debug\Agenda.UserInterfaceDesktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\Agenda.UserInterfaceDesktop\obj\Debug\Agenda.UserInterfaceDesktop.Form1.resources
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\Agenda.UserInterfaceDesktop\obj\Debug\Agenda.UserInterfaceDesktop.Properties.Resources.resources
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\Agenda.UserInterfaceDesktop\obj\Debug\Agenda.UserInterfaceDesktop.csproj.GenerateResource.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\Agenda.UserInterfaceDesktop\obj\Debug\Agenda.UserInterfaceDesktop.csproj.CoreCompileInputs.cache
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\Agenda.UserInterfaceDesktop\obj\Debug\Agenda.UserInterfaceDesktop.exe
+C:\Users\tavan\OneDrive\Área de Trabalho\Estudos_Backend\TDD\Agenda\Agenda\Agenda.UserInterfaceDesktop\obj\Debug\Agenda.UserInterfaceDesktop.pdb

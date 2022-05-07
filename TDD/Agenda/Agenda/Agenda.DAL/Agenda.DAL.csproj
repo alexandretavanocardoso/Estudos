@@ -48,6 +48,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contatos.cs" />
+    <Compile Include="Interfaces\IContatos.cs" />
+    <Compile Include="Interfaces\ITelefones.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

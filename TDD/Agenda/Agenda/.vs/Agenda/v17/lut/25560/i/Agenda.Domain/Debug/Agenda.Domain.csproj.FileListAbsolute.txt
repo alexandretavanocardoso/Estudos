@@ -1,5 +1,0 @@
-C:\Users\tavan\OneDrive\Área de Trabalho\Agenda\Agenda\.vs\Agenda\v17\lut\0\b\Agenda.Domain\bin\Debug\Agenda.Domain.dll
-C:\Users\tavan\OneDrive\Área de Trabalho\Agenda\Agenda\.vs\Agenda\v17\lut\0\i\Agenda.Domain\Debug\Agenda.Domain.csproj.AssemblyReference.cache
-C:\Users\tavan\OneDrive\Área de Trabalho\Agenda\Agenda\.vs\Agenda\v17\lut\0\i\Agenda.Domain\Debug\Agenda.Domain.csproj.CoreCompileInputs.cache
-C:\Users\tavan\OneDrive\Área de Trabalho\Agenda\Agenda\.vs\Agenda\v17\lut\0\i\Agenda.Domain\Debug\Agenda.Domain.csproj.CopyComplete
-C:\Users\tavan\OneDrive\Área de Trabalho\Agenda\Agenda\.vs\Agenda\v17\lut\0\i\Agenda.Domain\Debug\Agenda.Domain.dll
