@@ -68,6 +68,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IBaseConstrutor.cs" />
+    <Compile Include="IContatoConstrutor.cs" />
+    <Compile Include="ITelefoneConstrutor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReposiotorioContatosTeste.cs" />
   </ItemGroup>
