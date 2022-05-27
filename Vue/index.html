@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vue js</title>
+
+    <script src="vue.js"></script>
+</head>
+
+<body>
+
+    <div id="app">
+        {{mensagem}} <br>
+        {{valorTotal}} <br>
+        {{logado}} <br>
+        {{hobbies[0]}} <br>
+        {{perfil.nome + ' ' + perfil.sobrenome}} <br>
+        {{perfil.cursos[0].nome}} <br>
+
+        {{somar()}} <br>
+        {{subtrair()}} <br>
+        {{multiplicar()}} <br>
+        {{dividir()}} <br>
+
+        {{pegandoValorDoData()}} <br>
+    </div>
+
+    <script>
+        
+        const vm = new Vue({
+            el: '#app', //.app (DOM)
+            data: { // guarda variaveis e atributos reativos
+                mensagem: "Primeiro template controlado pelo view!",
+                valorTotal: 150.47,
+                logado: true,
+                hobbies: ['jogar', 'Programar'],
+                perfil: {
+                    nome: 'Alexandre',
+                    sobrenome: 'Tavano',
+                    cursos: [
+                        { nome: 'Vue' },
+                        { nome: 'Javascript' }
+                    ]
+                }
+            },
+            methods: {
+                somar: function() { // Convencional
+                    return 2 + 2
+                },
+                subtrair: function() { // anonima
+                    return 2 - 2
+                },
+                multiplicar: () => { // arrow function
+                    return 8 * 8
+                },
+                dividir() { // forma mais enxuta
+                    return 16 / 8
+                },
+                pegandoValorDoData() {
+                    return this.valorTotal
+                }
+            }
+        })
+
+    </script>
+</body>
+
+</html>
