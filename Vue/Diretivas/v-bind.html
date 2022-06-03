@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>v-bind: ou :</title>
+
+    <script src="../vue.js"></script>
+
+    <style>
+        .vermelho {
+            color: red;
+        }
+
+        .verde {
+            color: green;
+        }
+
+        .negrito {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <b>USADA PARA MANIPULAÇÃO DE ATRIBUTOS DE TAGS</b>
+
+    <div id="app">
+        <a v-bind:href="site">link</a>
+        <p v-bind:class="classeBind" class="negrito">Entendi diretiva v-bind</p>
+        <input v-bind:placeholder="placeholder" type="text">
+        <input :type="type" name="" id="" :checked="checked">
+    </div>
+
+    <div id="expressaoBind">
+        {{mensagem}}
+        <input :value="mensagem" type="text"> <br>
+
+        {{(2 + 2) / 4}}
+        <input :value="2 + 2" type="text"> <br>
+
+        <p :class="1 == 1 ? 'verde' : 'vermelho'">
+            if ternario mudando classe de cor
+        </p>
+    </div>
+
+    <script>
+        const vm = new Vue({
+            el: "#app",
+            data: {
+                site: "google.com.br",
+                classeBind: "vermelho",
+                type: "checkbox",
+                placeholder: "Placeholder input",
+                checked: true
+            }
+        });
+
+        const vm2 = new Vue({
+            el: "#expressaoBind",
+            data: {
+                mensagem: "Expressao"
+            }
+        });
+    </script>
+</body>
+
+</html>

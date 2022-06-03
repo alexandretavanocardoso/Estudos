@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>modificadores_v-on</title>
+
+    <script src="../vue.js"></script>
+
+    <style>
+        .azul {
+            background-color: blue
+        }
+
+        .verde {
+            background-color: green
+        }
+
+        .branco {
+            background-color: white
+        }
+
+        .vermelho {
+            background-color: red
+        }
+
+        .borda {
+            border: 1px solid
+        }
+
+        .div-principal {
+            width: 200px;
+            height: 200px;
+        }
+
+        .div-comum {
+            width: 50px;
+            height: 50px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <b>Modificadores: são conectado com a diretiva v-on</b>
+
+    <p>click.prevent: previne o comportamento padrão</p>
+    <p>click.once: força a executar a função apenas uma vez</p>
+    <p>keyup.tecla.tecla: força a função executar somente quando ocorrer o clique da tecla selecionada (podemos encadear keyup.tecla1.tecla2)</p>
+    
+    <div id="app">
+        <a href="https://www.google.com" target="_blank" @click.prevent="prevernirComportamentPadrao($event)">link</a>
+        <br>
+        msg: {{msg}}
+        <hr />
+        <button @click.once="executarUmaVez()">Botao</button>
+        clicks: {{cliques}}
+        <hr />
+        <input type="text" @keyup.x.a="capturandoTeclas($event)">
+        <p>Evento: {{tecla}}</p>
+    </div>
+
+    <script>
+        const vm = new Vue({
+            el: "#app",
+            data: {
+                msg: '',
+                cliques: 0,
+                tecla: ''
+            },
+            methods: {
+                prevernirComportamentPadrao(evento){
+                    this.msg = 'Comportamento padrao ativado'
+                },
+                executarUmaVez(){
+                    this.cliques++
+                },
+                capturandoTeclas(event){
+                    this.tecla += event.key
+                }
+            }
+        });
+    </script>
+</body>
+
+</html>

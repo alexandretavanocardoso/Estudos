@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hand on</title>
+
+    <script src="../vue.js"></script>
+
+    <style>
+        .azul {
+            background-color: blue
+        }
+
+        .verde {
+            background-color: green
+        }
+
+        .branco {
+            background-color: white
+        }
+
+        .vermelho {
+            background-color: red
+        }
+
+        .borda {
+            border: 1px solid
+        }
+
+        .div-principal {
+            width: 200px;
+            height: 200px;
+        }
+
+        .div-comum {
+            width: 50px;
+            height: 50px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <b>Modificadores: são conectado com a diretiva v-on</b>
+
+    <div id="app">
+        <div :class="cor" class="borda div-principal">
+            Cor: {{cor}} <br>
+            X: {{posicaoX}} <br>
+            Y: {{posicaoY}}
+        </div>
+        <hr>
+        <div @click="mudarCor('verde')" class="borda div-comum"></div>
+        <div @mouseover="mudarCor('azul')" @mouseout="mudarCor('vermelho')" class="borda div-comum"></div>
+        <div @mousemove="coordenadas($event)" class="borda div-comum"></div>
+    </div>
+
+    <script>
+        const vm = new Vue({
+            el: "#app",
+            data: {
+                cor: '',
+                posicaoX: 0,
+                posicaoY: 0
+            },
+            methods: {
+                mudarCor(corParam) {
+                    this.cor = corParam
+                },
+                coordenadas(event){
+                    this.posicaoX =event.clientX
+                    this.posicaoY = event.clientY
+                }
+            }
+        });
+    </script>
+</body>
+
+</html>

@@ -20,8 +20,8 @@
         {{perfil.nome + ' ' + perfil.sobrenome}} <br>
         {{perfil.cursos[0].nome}} <br>
 
-        {{somar()}} <br>
-        {{subtrair()}} <br>
+        {{somar(80,100)}} <br>
+        {{subtrair(5000,4000)}} <br>
         {{multiplicar()}} <br>
         {{dividir()}} <br>
 
@@ -47,11 +47,11 @@
                 }
             },
             methods: {
-                somar: function() { // Convencional
-                    return 2 + 2
+                somar: function(v1,v2) { // Convencional
+                    return v1 + v2
                 },
-                subtrair: function() { // anonima
-                    return 2 - 2
+                subtrair: function(v1,v2) { // anonima
+                    return v1 - v2
                 },
                 multiplicar: () => { // arrow function
                     return 8 * 8
