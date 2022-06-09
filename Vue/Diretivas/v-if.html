@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>v-if: ou @</title>
+
+    <script src="../vue.js"></script>
+
+    <style>
+        .vermelho{
+            color: red;
+        }
+
+        .verde{
+            color: green;
+        }
+
+        .negrito{
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+       <button @click="exibirSaldo = !exibirSaldo">
+           <span v-if="!exibirSaldo">Exibir Saldo</span>
+           <span v-else-if="exibirSaldo == null">Nulo</span>
+           <span v-else>Ocultar Saldo</span>
+       </button>
+       <p>Saldo: <span v-if="exibirSaldo">R$ {{saldo}}</span></p>
+    </div>
+
+    <script>
+        const vm = new Vue({
+            el: "#app",
+            data: {
+                saldo: 500.00,
+                exibirSaldo: false
+            },
+            methods: {
+                exibirSaldo(){
+                    alert(event + um)
+                }
+            }
+        });
+    </script>
+</body>
+</html>
