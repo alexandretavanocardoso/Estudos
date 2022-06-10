@@ -24,12 +24,13 @@
 </head>
 <body>
     <div id="app">
+        <div v-text="elementoText"></div>
     </div>
 
     <script>
         const vm = new Vue({
             el: "#app",
-            data: {},
+            data: { elementoText: "Texto innerText: Injentando texto"},
             methods: { }
         });
     </script>

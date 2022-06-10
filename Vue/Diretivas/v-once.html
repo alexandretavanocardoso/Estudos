@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,29 +10,47 @@
     <script src="../vue.js"></script>
 
     <style>
-        .vermelho{
+        .vermelho {
             color: red;
         }
 
-        .verde{
+        .verde {
             color: green;
         }
 
-        .negrito{
+        .negrito {
             font-weight: bold;
         }
     </style>
 </head>
+
 <body>
+    <h3>Renderiza o elemento apenas um vez</h3>
+
     <div id="app">
+        <p v-once>saldo Inicial: {{saldo}}</p>
+        <p>saldo Atualizado: {{saldo}}</p>
+        <input type="text" name="" id="valor">
+        <button @click="creditar()">Creditar</button>
+        <button @click="debitar()">Debitar</button>
     </div>
 
     <script>
         const vm = new Vue({
             el: "#app",
-            data: {},
-            methods: { }
+            data: {
+                saldo: 1100
+            },
+            methods: {
+                creditar() {
+                    this.saldo += parseFloat(valor.value)
+                },
+                debitar() {
+                    this.saldo -= parseFloat(valor.value)
+                }
+            }
         });
     </script>
 </body>
+
 </html>

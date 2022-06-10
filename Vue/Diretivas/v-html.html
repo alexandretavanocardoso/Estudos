@@ -24,12 +24,15 @@
 </head>
 <body>
     <div id="app">
+        <div v-html="elementosHTML"></div>
     </div>
 
     <script>
         const vm = new Vue({
             el: "#app",
-            data: {},
+            data: {
+                elementosHTML: "<b>estilo INNERHTML: Injetando elemento</b>"
+            },
             methods: { }
         });
     </script>
