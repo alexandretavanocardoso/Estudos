@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>template</title>
+
+    <script src="vue.js"></script>
+</head>
+
+<body>
+
+    <div id="app">
+        <h1> A tag Template não é renderizada</h1>
+
+        <!-- renderizacao condicional  -->
+        <template v-if="saudacao">
+            <h1>Boas vindas</h1>
+        </template>
+        <!-- renderizacao lista  -->
+        <template v-for="n in 10">
+            <h1>{{2 * n}}</h1>
+        </template>
+    </div>
+
+    <script>
+
+        const vm = new Vue({
+            el: '#app', //.app (DOM)
+            data: { // guarda variaveis e atributos reativos
+                saudacao: true
+            },
+            methods: {
+
+            }
+        })
+
+    </script>
+</body>
+
+</html>

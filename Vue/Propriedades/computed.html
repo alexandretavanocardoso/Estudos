@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>computed</title>
+
+    <script src="vue.js"></script>
+</head>
+
+<body>
+
+    <div id="app">
+        <h4>Adicionar pacitente</h4>
+        <span>Nome <input type="text" id="inputNome"></span>
+        <span>Idade <input type="text" id="inputIdade"></span>
+        <span>Plano <input type="text" id="inputPlano"></span>
+        <button @click="adicionarPaciente">Adicionar</button>
+
+        <hr>
+
+        <h4>Ultimo paciente cadastrado</h4>
+        <p v-if="paciente.length > 0">
+           {{ ultimoPaciente }}
+        </p>
+
+        <hr>
+
+        <h4>Paciente do plano ouro</h4>
+        <p v-for="p in pacientePlanoOuro">
+            {{ p.nome }}
+        </p>
+
+        <hr>
+
+        <h4>Pacientes cadastrados</h4>
+        <p v-for="p in paciente"> {{p.nome}}</p>
+    </div>
+
+    <script>
+
+        const vm = new Vue({
+            el: '#app',
+            data: {
+                paciente: []
+            },
+            methods: {
+                adicionarPaciente() {
+                    this.paciente.push({
+                        nome: inputNome.value,
+                        idade: inputIdade.value,
+                        plano: inputPlano.value
+                    })
+                }
+            },
+            computed: {
+                ultimoPaciente() {
+                    let key = this.paciente.length - 1
+                    let txt =""
+
+                    txt += 'paciente ' + this.paciente[key].nome
+                    txt += ', idade ' + this.paciente[key].idade
+                    txt += ', plano ' + this.paciente[key].plano
+
+                    return txt
+                },
+                pacientePlanoOuro() {
+                    return this.paciente.filter(item => item.plano == "ouro")
+                }
+            }
+        })
+
+    </script>
+</body>
+
+</html>

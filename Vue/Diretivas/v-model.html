@@ -9,28 +9,53 @@
     <script src="../vue.js"></script>
 
     <style>
-        .vermelho{
-            color: red;
-        }
-
-        .verde{
-            color: green;
-        }
-
-        .negrito{
-            font-weight: bold;
-        }
+      
     </style>
 </head>
 <body>
     <div id="app">
+        {{paciente}} <br>
+        {{idade}} <br>
+        {{sexo}} <br>
+        {{plano}} <br>
+        {{doencas}} <br>
+        {{diagnostico}} <br>
+        <input type="text" v-model="paciente">
+        <hr>
+        <input type="number" v-model="idade">
+        <hr>
+        <input type="radio" value="F" v-model="sexo">Feminimo
+        <input type="radio" value="M" v-model="sexo">Masculino
+        <hr>
+        <select name="" id="" v-model="plano">
+            <option value="" disabled>Selecione um plano</option>
+            <option value="1">Basico</option>
+            <option value="2">Medio</option>
+            <option value="3">Ouro</option>
+        </select>
+        <hr>
+        <input type="checkbox" value="100" v-model="doencas">Asma
+        <input type="checkbox" value="101" v-model="doencas">Diabetes 1
+        <input type="checkbox" value="102" v-model="doencas">Rinite
+        <hr>
+        <textarea v-model="diagnostico" cols="30" rows="10"></textarea>
     </div>
 
     <script>
         const vm = new Vue({
             el: "#app",
-            data: {},
-            methods: { }
+            data: {
+                paciente: "João",
+                idade: 10,
+                sexo: "",
+                plano: "",
+                doencas: [],
+                diagnostico: ""
+            },
+            methods: {
+
+            },
+            computed: {}
         });
     </script>
 </body>
