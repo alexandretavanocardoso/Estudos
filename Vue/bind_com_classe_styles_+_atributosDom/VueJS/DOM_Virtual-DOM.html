@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./vue.js"></script>
+    <title></title>
+    <style>
+
+    </style>
+</head>
+
+<body>
+
+    <h3>
+        Modificar Dom por meio do Virtual Dom(vue) pode causar falhas de manipulacao
+    </h3>
+
+    <div id="app">
+        <!-- <p>{{texto}}</p> -->
+        <p v-text="texto"></p>
+        <button @click="modificarTextoVD()">Adicionar @ via Vue</button>
+        <button onclick="modificarTexto()">Adicionar @ via Js</button>
+    </div>
+
+    <script>
+
+        const vm = new Vue({
+            el: '#app',
+            data: {
+                texto: 'DOM e Virtual Dom'
+            },
+            methods: {
+                modificarTextoVD(){
+                    this.texto += '@'
+                }
+            }
+        })
+
+        function modificarTexto(){
+            var tagP = document.querySelector('p').innerText
+            tagP += '@'
+            var tagP = document.querySelector('p').innerText = tagP
+        }
+
+    </script>
+</body>
+
+</html>

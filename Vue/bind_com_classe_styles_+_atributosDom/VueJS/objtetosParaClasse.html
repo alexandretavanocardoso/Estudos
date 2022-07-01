@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./vue.js"></script>
+    <title></title>
+    <style>  
+        .vermelho {
+            background-color: red
+        }    
+        .texto-branco {
+            color:white
+        }
+        .destaque {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <h1>Manipulando CSS com VueJS</h1>
+        <p :class="{ vermelho: evermelho, 'texto-branco': etextoBranco, destaque: edestaque}">
+            Definindo classes com objetos
+        </p>
+        <button @click="evermelho = !evermelho">
+            <span v-text="evermelho ? 'remover' : 'aplicar'"></span>
+        </button>
+        <button @click="etextoBranco = !etextoBranco">
+            <span v-text="etextoBranco ? 'remover' : 'aplicar'"></span>
+        </button>
+        <button @click="edestaque = !edestaque">
+            <span v-text="edestaque ? 'remover' : 'aplicar'"></span>
+        </button>
+    </div>
+
+    <script>
+
+        const vm = new Vue({
+            el: '#app',
+            data: {
+                evermelho: false,
+                etextoBranco: false,
+                edestaque: false
+            }
+        })
+
+    </script>
+</body>
+</html>
